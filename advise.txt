@@ -1,0 +1,5 @@
+You can drop a jsp webshell or jsp revshell on this path : /opt/vmware/horizon/workspace/webapps/cas/static/
+
+The link of your webshell is : https://ip/cas/static/yourwebshell.jsp
+
+

@@ -1,0 +1,5 @@
+shodan  search "http.favicon.hash:-1250474341" --fields=ip_str,port --separator ":" --limit 1000 | grep ''
+
+shodan  search 'title:"Workspace ONE Access"' --fields=ip_str,port --separator ":" --limit 1000 | grep ''
+
+
